@@ -8,6 +8,6 @@ Applying market basket analysis to hospital prescription data to uncover medicat
 - Tested support thresholds from 0.01 to 0.2 and chose 0.05 to balance meaningful patterns against noise, with a minimum lift of 1.1
 - Surfaced cardiovascular and psychiatric co-prescription pairings (lift up to about 1.44) and recommended joining results with diagnostic data to validate the patterns clinically
 
-[Documentation](https://github.com/hrbergman/patient-segmentation-kmeans/blob/main/patient-segmentation-kmeans/k-means-clustering-documentation.pdf)
+[Documentation](https://github.com/hrbergman/prescription-market-basket-analysis/blob/main/prescription-market-basket-analysis/market-basket-analysis-documentation.pdf)
 | 
-[Video Presentation]
+[Video Presentation](https://youtu.be/tVKcg7JKQv8)
